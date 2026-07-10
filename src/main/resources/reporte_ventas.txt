@@ -1,0 +1,5 @@
+=== REPORTE DE VENTAS ===
+Boleto B-001 | Cliente: Gabriel | Asiento: B1 | Tipo: Adulto | Total pagado: S/ 25.00 | Fecha: 10/07/2026 11:45:24
+--------------------------------
+Boletos vendidos: 1
+Total recaudado: S/ 25.00

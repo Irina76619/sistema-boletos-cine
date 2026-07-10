@@ -1,0 +1,5 @@
+=== REPORTE DE VENTAS ===
+Boleto B-001 | Cliente: Pepe | Asiento: A1 | Tipo: Adulto | Total pagado: S/ 17.00
+--------------------------------
+Boletos vendidos: 1
+Total recaudado: S/ 17.00

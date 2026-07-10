@@ -1,0 +1,8 @@
+com\mycompany\boletos\Asiento.class
+com\mycompany\boletos\GestorVentas.class
+com\mycompany\boletos\SalaCine.class
+Utilitarios\EntradaUtil.class
+Utilitarios\GestorArchivoTexto.class
+com\mycompany\boletos\Boleto.class
+com\mycompany\boletos\CineBoletos.class
+com\mycompany\boletos\Tarifario.class
